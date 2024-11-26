@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\home\\blogdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\home\\blogdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\home\\bloglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\home\\bloglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\home\\home1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\home\\home1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|c:\\users\\ll novbe\\source\\repos\\pronio\\pronio\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978B28BF-A65E-4171-9B38-548265D73FB9}|PRONIO\\PRONIO.csproj|solutionrelative:pronio\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\BlogList.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\Home\\BlogList.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\BlogList.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\Home\\BlogList.cshtml",
+              "ViewState": "AgIAAMEBAAAAAAAAAAAwwP4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T15:21:07.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T15:13:20.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAwwLoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T15:10:11.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home1.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\Home1.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\Home\\Home1.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\Home1.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\Home\\Home1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T15:08:35.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "PRONIO\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "PRONIO\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:27:45.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAIoJAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:17:39.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PRONIO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PRONIO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:16:31.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:24:06.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoHAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:28:13.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAANQAAAAAAAAAAAAgwP4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:14:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Program.cs",
+              "RelativeDocumentMoniker": "PRONIO\\Program.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Program.cs",
+              "RelativeToolTip": "PRONIO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:32:38.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\BlogDetails.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\Home\\BlogDetails.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\Home\\BlogDetails.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\Home\\BlogDetails.cshtml",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAwwMIBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T15:23:02.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "PRONIO\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "PRONIO\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:03:02.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "PRONIO\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "PRONIO\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:53:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:24:01.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PRONIO\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\PRONIO\\PRONIO\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PRONIO\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T14:13:57.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
